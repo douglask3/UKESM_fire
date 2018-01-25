@@ -1,7 +1,10 @@
 # Quantifying fire module performance through increased LS and ESM couping
 
 ### ConFire
-[Model optimization](https://github.com/rhyswhitley/fire_limitation):
+
+
+[Model optimization](https://github.com/rhyswhitley/fire_limitation)
+
 [Model analysis](https://github.com/douglask3/LimFIRE)
 
 Burnt area constructed as a combination of the limitations split between the four controls:
