@@ -25,11 +25,17 @@ Burnt area is constructed by multiplying the maximum permitted fire by each cont
 The contribution of each variable to their control and the shape of the control curves against monthly observations of burnt area from GFEDs using an iterative Bayesian inference technique.
 
 ### INFERNO
+
+![INFERNO](docs/InfernoSchematic.png "How INFERNO works")
+
 [Mangeon et al., 2016](http://www.geosci-model-dev.net/9/2685/2016/gmd-9-2685-2016.pdf) was developed
 A simple, stable parameterization
 to diagnose fire occurrence, burned area, and biomass
 burning emissions in the context of an Earth system model building upon the fire parameterization proposed by [Pechony
 and Shindell 2009](http://onlinelibrary.wiley.com/doi/10.1029/2009JD011927/full).
+
+
+![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
 
 It is an empirical scheme that uses vapor pressure deficit, precipitation, and soil moisture to diagnose burned area.
 Humans only explicitly impact biomass burning through the number of fires. 
