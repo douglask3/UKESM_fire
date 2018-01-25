@@ -7,13 +7,20 @@
 
 [Model analysis](https://github.com/douglask3/LimFIRE)
 
+![LimLines](docs/limLines--.png "Contribution of controls to burnt area")
+
 Burnt area constructed as a combination of the limitations split between the four controls:
 * fuel (dis)continuity (referred hereafter as “fuel”) represented by variables describing vegetation cover and maximum annual  anomaly;
 * fuel moisture (“moisture”) represented by , fractional tree cover and atmospheric drying potential, which combines dry days, maximum temperature and relative humidity
 * potential ignitions (“ignition”) represented by lightning strikes, population density and pasture cover; and
 * anthropogenic suppression (“suppression”) represented by cropland and population density (see methods for model construction and data sources). Each control is expressed as a linear combination of their respective variables, and limitation imposed by each control is represented by a logistic curve (figure 1). 
 
+![MappedLim](docs/RawPotSen.png "Limitation and sensitiv")
+
 Burnt area is constructed by multiplying the maximum permitted fire by each control. 
+
+
+![burntArea](docs/gfedComparison.png "GFED4s vs reconstructed controls")
 
 The contribution of each variable to their control and the shape of the control curves against monthly observations of burnt area from GFEDs using an iterative Bayesian inference technique.
 
