@@ -26,6 +26,7 @@ respectively.
 ![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
 
 ![JULES_BGC_coupling](docs/lifeForm2__res-NaNmodel-S3.png "Veg Fracs without fire")
+![JULES_BGC_coupling](docs/lifeForm2__res-NaNmodel-SF3.png "Veg Fracs with fire")
 
 ### Parameterization
 
