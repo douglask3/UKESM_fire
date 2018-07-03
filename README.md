@@ -23,14 +23,26 @@ for fires in trees, grasses, and shrubs,
 respectively. 
 
 ### Offline Evaluation
+
+#### Physical Model
+
 ![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
+
+Add Trend Figure
+
+Add Evaluation table
+
+#### BGC impacts
 
 ![JULES_BGC_coupling](docs/lifeForm2__res-NaNmodel-S3.png "Veg Fracs without fire")
 ![JULES_BGC_coupling](docs/lifeForm2__res-NaNmodel-SF3.png "Veg Fracs with fire")
 
+Add Evaluation Table
+
 ### Parameterization
 
 #### Cropland fragmentation
+
 
 #### Veg mortality
 
