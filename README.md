@@ -15,9 +15,6 @@ to diagnose fire occurrence, burned area, and biomass
 burning emissions in the context of an Earth system model building upon the fire parameterization proposed by [Pechony
 and Shindell 2009](http://onlinelibrary.wiley.com/doi/10.1029/2009JD011927/full).
 
-
-![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
-
 It is an empirical scheme that uses vapor pressure deficit, precipitation, and soil moisture to diagnose burned area.
 Humans only explicitly impact biomass burning through the number of fires. 
 Vegetation-dependent average burned area:
@@ -26,6 +23,7 @@ for fires in trees, grasses, and shrubs,
 respectively. 
 
 ### Offline Evaluation
+![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
 
 ### Parameterization
 
