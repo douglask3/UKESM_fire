@@ -47,12 +47,12 @@ respectively.
 #### Cropland fragmentation
 
 * Implement cropland fragmentation on burnt area based on Kelley et al. in prep, using "suppression index" curve:
-[Limitation Curves](docs/limLines--FALSE-FALSE-.png "Kelley et al. in prep")
+![Limitation Curves](docs/limLines--FALSE-FALSE-.png "Kelley et al. in prep")
 
 * Veg-dependent average fire size re-scaled against GFED4s
 * Impact on offline INFERNO:
 
-[INFERNO fragmentation](docs/fire_opt.png "Tile optimization")
+![INFERNO fragmentation](docs/fire_opt.png "Tile optimization")
 
 * Needs re-benchmarking
 
