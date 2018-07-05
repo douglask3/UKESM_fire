@@ -4,6 +4,11 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1nSwfbOOgf3Xqd7l70rnaLB82b4_F2w8jkp9YMqg71u4/edit?usp=sharing">![FIRE_benchmark_tab](docs/TaskList.png "Offline fire benchmark scores") </a>
 
+* Blue = done
+* Green = ongoing
+* yellow = planned
+* red = stuff to figure out
+
 ## INFERNO
 
 ### Overview
