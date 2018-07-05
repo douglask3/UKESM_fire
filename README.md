@@ -37,7 +37,14 @@ respectively.
 
 ***Add Trend Figure***
 
-<a href="https://docs.google.com/spreadsheets/d/1nSwfbOOgf3Xqd7l70rnaLB82b4_F2w8jkp9YMqg71u4/edit?usp=sharing">![FIRE_benchmark_tab](docs/JULES-INFERNO_fire_benchmark_table.png "Offline fire benchmark scores") </a>
+<a href="https://docs.google.com/spreadsheets/d/1nSwfbOOgf3Xqd7l70rnaLB82b4_F2w8jkp9YMqg71u4/edit?usp=sharing">![F2IRE_benchmark_tab](docs/JULES-INFERNO_fire_benchmark_table.png "Offline fire benchmark scores") </a>
+
+* blue = great
+* green = okay
+* yellow = a bit rubbish
+* red = critical
+
+For info on benchmarking scheme, see [Benchmarking](https://docs.google.com/document/d/1Jm73J4ECdrg3aNb2zJhE9GqNrHXNE6aUMB4wv1xzD8w/edit?usp=sharing)
 
 #### BGC impacts
 
