@@ -2,16 +2,7 @@
 
 ## Where we are
 
-| Task                            | Contact | Evaluation                                                 | Name  | Outstanding Issues/Tasks                                                                                                | Expected Date |
-|---------------------------------|---------|------------------------------------------------------------|-------|-------------------------------------------------------------------------------------------------------------------------|---------------|
-| INFERNO                         | CB      | fireMIP - Burnt area                                       | DK    | Incorrect Trend Introduce Cropland Fragmentation (CB/DK)                                                                |               |
-| BGC coupling in 5-pft JULES     | CB      | fireMIP - vegetation fractions                             | DK    | Excessive fire impact of tree cover in some regions Constraining mortality and recovery (veg mortality JPEG - DK/ER/CB) |               |
-| BGC coupling in UKESM-JULES     | ?/DK    | fireMIP Plus UM eval below Carbon Conservation checks      | ?     | BGC coupling for 9-PFTS Carbon accounting (issue with TRIFFID 10-day timestep and CC)                                   |               |
-| UM Emission coupling            | ?/GF    | fireMIP - Fire C emission Plus others...?                  | DK/RP |                                                                                                                         |               |
-| UM lightning ignitions coupling | ?/GF    | Same as above                                              | DK/RP |                                                                                                                         |               |
-| Atmos. Chem. coupling           | ?/GF    |                                                            | DK/RP |                                                                                                                         |               |
-| UKESM paramterizations          | DK      | ESMval tools? Plus whatever we're using for UKESMv2 tuning | DK    |                                                                                                                         |               |
-
+<a href="https://docs.google.com/spreadsheets/d/1nSwfbOOgf3Xqd7l70rnaLB82b4_F2w8jkp9YMqg71u4/edit?usp=sharing">![FIRE_benchmark_tab](docs/TaskList.png "Offline fire benchmark scores") </a>
 
 ## INFERNO
 
@@ -33,9 +24,6 @@ for fires in trees, grasses, and shrubs,
 respectively. 
 
 ### Offline Evaluation
-
-
-[[embed url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5eUFRV4fWk6F4RYIeiXqrl9SM_MEfIvliT2O_vlqPLWaRtRH0n8L9laSD1jPAqazYl6YsBRKogfvw/pubhtml?gid=0&amp]]
 
 
 #### Physical Model
