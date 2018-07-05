@@ -44,7 +44,7 @@ respectively.
 
 ***Add Trend Figure***
 
-![FIRE_benchmark_tab](docs/JULES-INFERNO_fire_benchmark_table "Offline fire benchmark scores")
+![FIRE_benchmark_tab](docs/JULES-INFERNO_fire_benchmark_table.png "Offline fire benchmark scores")
 
 #### BGC impacts
 
