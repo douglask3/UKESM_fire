@@ -46,13 +46,22 @@ respectively.
 
 #### Cropland fragmentation
 
+* Implement cropland fragmentation on burnt area based on Kelley et al. in prep, using "suppression index" curve:
+[Limitation Curves](docs/limLines--FALSE-FALSE-.png "Kelley et al. in prep")
+
+* Veg-dependent average fire size re-scaled against GFED4s
+* Impact on offline INFERNO:
+
+[INFERNO fragmentation](docs/fire_opt.png "Tile optimization")
+
+* Needs re-benchmarking
+
+
 
 #### Veg mortality
 
-## IMOGEN
+Vegetation mortality (inc. fire, generic and land use exclusion) and vegetation recovery rate are being constrained as part of the veg distribution JULES PEG:
 
+* <a href="https://docs.google.com/document/d/1J2eMRyYfYdrsI8L5nwVVPRFVVW-TOsy5r8hLdefNEy8/edit?usp=sharing">Veg mortality JPEG</a>
+* <a https://docs.google.com/document/d/1uS7Nks2N3GOsp_q8eeHcVF6YR-0hj2Uu08RwcBC7yTg/edit?usp=sharing>Mortality optimization</a>
 
-## UM
-
-
-## UKESM
