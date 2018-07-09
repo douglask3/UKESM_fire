@@ -33,6 +33,8 @@ respectively.
 
 #### Physical Model
 
+*** FireMIP benchmarking***
+
 [See JULES fireMIP presentation](docs/fireMIP_jules_pre_0617.pdf)
 
 ![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
@@ -47,6 +49,13 @@ respectively.
 * red = critical
 
 For info on benchmarking scheme, see [Benchmarking](https://docs.google.com/document/d/1Jm73J4ECdrg3aNb2zJhE9GqNrHXNE6aUMB4wv1xzD8w/edit?usp=sharing)
+
+
+*** Fire, veg and climate***
+![veg_moisture_fire](docs/Burnt_are_clim_grads.png "Veg and climate vs fire")
+
+![fireClim](docs/seasonality_JULES.png "Fire Climatology")
+![fireClim](docs/seasonality_JULES_normalised.png "Fire Climatology")
 
 #### BGC impacts
 
