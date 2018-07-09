@@ -33,6 +33,8 @@ respectively.
 
 #### Physical Model
 
+[See JULES fireMIP presentation](docs/fireMIP_jules_pre_0617.pdf)
+
 ![INFERNO_Firemip](docs/FireMaps.png "INFERNO performance")
 
 ***Add Trend Figure***
