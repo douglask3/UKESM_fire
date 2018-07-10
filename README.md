@@ -9,6 +9,12 @@
 * yellow = planned
 * red = stuff to figure out
 
+### Future plans
+
+* Peatland fires
+* Black carbon
+* Seperating agricultral fires
+
 ## INFERNO
 
 ### Overview
